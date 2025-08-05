@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Allure Report on GitHub Pages](https://nikita-filonov.github.io/python-api-tests-async/8/index.html)
+- [Allure Report on GitHub Pages](https://nikita-filonov.github.io/python-api-tests-async/5/index.html)
 - [GitHub Actions CI/CD](https://github.com/Nikita-Filonov/python-api-tests-async/actions)
 
 ## Overview
@@ -134,11 +134,11 @@ Once set up, your tests will run automatically, and the Allure report will be de
 After a successful test run in CI/CD:
 
 - The Allure report will be available
-  at [GitHub Pages](https://nikita-filonov.github.io/python-api-tests-async/8/index.html).
+  at [GitHub Pages](https://nikita-filonov.github.io/python-api-tests-async/5/index.html).
 - The workflow logs and artifacts can be accessed
   via [GitHub Actions](https://github.com/Nikita-Filonov/python-api-tests-async/actions).
 - If the [*pages build and
-  deployment*](https://github.com/Nikita-Filonov/python-api-tests-async/actions/runs/14155385792)
+  deployment*](https://github.com/Nikita-Filonov/python-api-tests-async/actions/runs/16753659441)
   workflow does not appear, verify your GitHub Pages settings:
     - Go to Settings > Pages.
     - Under Build and deployment, ensure the source is set to the `gh-pages` branch.
